@@ -1,4 +1,5 @@
--- 1. Сколько медалей выиграл Jesse Owens в 1936?# Ответ: 4 
+-- 1. Сколько медалей выиграл Jesse Owens в 1936?
+-- Ответ: 4 
 
 select count(*) from medals where athlete = 'OWENS, Jesse' and edition = 1936
 
