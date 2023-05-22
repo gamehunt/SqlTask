@@ -1,0 +1,25 @@
+2008	PHELPS, Michael	Aquatics	8
+2004	PHELPS, Michael	Aquatics	8
+2000	TORRES, Dara	Aquatics	5
+1996	HALL, Gary Jr.	Aquatics	4
+1992	MILLER, Shannon	Gymnastics	5
+1988	BIONDI, Matthew	Aquatics	7
+1984	RETTON, Mary-Lou	Gymnastics	5
+1976	NABER, John Phillips	Aquatics	5
+1972	SPITZ, Mark	Aquatics	7
+1968	PEDERSEN, Susan Jane	Aquatics	4
+1964	ELLIS, Kathleen	Aquatics	4
+1960	VON SALTZA, Susan Christina	Aquatics	4
+1956	MORROW, Robert Joseph	Athletics	3
+1952	KONNO, Ford Hiroshi	Aquatics	3
+1948	CURTIS, Ann Elisabeth	Aquatics	3
+1936	OWENS, Jesse	Athletics	4
+1932	MADISON, Helene	Aquatics	3
+1928	NORELIUS, Martha	Aquatics	2
+1924	WEISSMULLER, Johnny	Aquatics	4
+1920	SPOONER, Lloyd Spencer	Shooting	7
+1912	OSBURN, Carl Townsend	Shooting	4
+1908	SHEPPARD, Melvin	Athletics	3
+1904	EYSER, George	Gymnastics	6
+1900	TEWKSBURY, Walter B. John	Athletics	5
+1896	GARRETT, Robert	Athletics	4

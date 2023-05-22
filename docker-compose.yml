@@ -1,0 +1,13 @@
+version: '3'
+services:
+  db:
+    image: postgres
+    restart: always
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./olimpic_medals.csv:/var/lib/postgresql/csvs/olimpic_medals.csv
+    environment:
+      POSTGRES_PASSWORD: 12345
+      POSTGRES_DB: db
+    ports:
+      - "12345:5432"

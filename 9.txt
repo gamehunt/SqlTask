@@ -1,0 +1,25 @@
+Beijing	2008	1110	932
+Athens	2004	1099	899
+Sydney	2000	1126	889
+Atlanta	1996	1082	777
+Barcelona	1992	1105	600
+Seoul	1988	1011	535
+Los Angeles	1984	973	486
+Montreal	1976	924	381
+Munich	1972	947	238
+Mexico	1968	819	212
+Tokyo	1964	820	190
+Rome	1960	737	145
+Melbourne / Stockholm	1956	739	146
+Helsinki	1952	750	139
+London	1948	718	96
+Berlin	1936	791	84
+Los Angeles	1932	555	60
+Amsterdam	1928	615	95
+Paris	1924	833	51
+Antwerp	1920	1255	43
+Stockholm	1912	855	30
+London	1908	789	15
+St Louis	1904	458	12
+Paris	1900	501	11
+Athens	1896	151	0

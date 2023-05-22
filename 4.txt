@@ -1,0 +1,26 @@
+# Beijing	2008	BOLT, Usain	JAM
+# Athens	2004	GATLIN, Justin	USA
+# Sydney	2000	GREENE, Maurice	USA
+# Atlanta	1996	BAILEY, Donovan	CAN
+# Barcelona	1992	CHRISTIE, Linford	GBR
+# Seoul	1988	LEWIS, Carl	USA
+# Los Angeles	1984	LEWIS, Carl	USA
+# Moscow	1980	WELLS, Allan	GBR
+# Montreal	1976	CRAWFORD, Hasely	TRI
+# Munich	1972	BORZOV, Valery	URS
+# Mexico	1968	HINES, James Ray	USA
+# Tokyo	1964	HAYES, Robert	USA
+# Rome	1960	HARY, Armin	EUA
+# Melbourne / Stockholm	1956	MORROW, Robert Joseph	USA
+# Helsinki	1952	REMIGINO, Lindy	USA
+# London	1948	DILLARD, Harrison	USA
+# Berlin	1936	OWENS, Jesse	USA
+# Los Angeles	1932	TOLAN, Eddie	USA
+# Amsterdam	1928	WILLIAMS, Percy	CAN
+# Paris	1924	ABRAHAMS, Harold	GBR
+# Antwerp	1920	PADDOCK, Charles	USA
+# Stockholm	1912	CRAIG, Ralph	USA
+# London	1908	WALKER, Reginald	RSA
+# St Louis	1904	HAHN, Archie	USA
+# Paris	1900	JARVIS, Francis	USA
+# Athens	1896	BURKE, Thomas	USA#
